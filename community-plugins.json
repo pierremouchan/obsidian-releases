@@ -17547,5 +17547,12 @@
     "description": "A homepage to browse, organize, and access notes in card form easily with multi-tag filtering.",
     "author": "ratiger",
     "repo": "ratiger/obsidian-banyan"
-  }
+  },
+  {
+  "id": "obsibrain",
+  "name": "Obsibrain",
+  "author": "Pierre Mouchan",
+  "description": "Official plugin for the Obsibrain template.",
+  "repo": "pierremouchan/obsibrain-plugin"
+}
 ]
